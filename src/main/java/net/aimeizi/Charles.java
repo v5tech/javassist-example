@@ -8,7 +8,7 @@ import javassist.CtMethod;
 /**
  * charles
  */
-public class App {
+public class Charles {
     public static void main(String[] args) throws Exception {
         ClassPool classPool = ClassPool.getDefault();
         // 装载目标jar文件
